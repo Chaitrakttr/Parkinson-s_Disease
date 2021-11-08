@@ -33,5 +33,7 @@ Install Parkinson's Disease with requirements.txt
     
 ## Screenshots
 
-![Parkinson-s_Disease](https://github.com/Chaitrakttr/Parkinson-s_Disease/parkinson.JPG)
+![parkinson](https://user-images.githubusercontent.com/66559862/140806479-322027d2-2c4f-4b7e-b890-020185f120ee.JPG)
+![parkinson2](https://user-images.githubusercontent.com/66559862/140806486-721b5e61-df62-44fb-b429-f81da7b443c4.JPG)
+
 
