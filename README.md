@@ -25,7 +25,7 @@ spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variatio
 
 ## Installation
 
-Install Parkinson's Disease with requirements.txt
+Install credentials with requirements.txt
 
 ```bash
   pip install -r requirements.txt
