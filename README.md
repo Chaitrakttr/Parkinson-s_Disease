@@ -1,7 +1,7 @@
 
 # Parkinson's Disease Detection
 
-Parkinson’s disease is a neurological disorder with more than 6 million people worldwide suffering from it.It is commonly diagnosed using clinical assessments and progression scale which usually depends on the medical practitioner’s expertise ,and accuracy varies greatly between various examiners which also takes a long time to accurately diagnose.
+Parkinson’s disease (PD) is the second most prevalent degenerative brain disease. It is a progressive disorder of the central nervous system affecting movement and inducing tremors and stiffness. PD is a neurological disorder with more than 6 million people worldwide suffering from it.It is commonly diagnosed using clinical assessments and progression scale which usually depends on the medical practitioner’s expertise ,and accuracy varies greatly between various examiners which also takes a long time to accurately diagnose.
 
 # Notebook
 
