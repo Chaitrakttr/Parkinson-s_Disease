@@ -4,13 +4,15 @@
 Parkinson’s disease is a neurological disorder with more than 6 million people worldwide suffering from it.It is commonly diagnosed using clinical assessments and progression scale which usually depends on the medical practitioner’s expertise ,and accuracy varies greatly between various examiners which also takes a long time to accurately diagnose.
 
 # Notebook
+
 Refer to Parkinson's Disease Detection.ipynb for the code.
 
 # Attribute Information:
 
 Matrix column entries (attributes):
-##name - ASCII subject name and recording number
-#MDVP:Fo(Hz) - Average vocal fundamental frequency
+
+name - ASCII subject name and recording number
+MDVP:Fo(Hz) - Average vocal fundamental frequency
 #MDVP:Fhi(Hz) - Maximum vocal fundamental frequency
 #MDVP:Flo(Hz) - Minimum vocal fundamental frequency
 #MDVP:Jitter(%),MDVP:Jitter(Abs),MDVP:RAP,MDVP:PPQ,Jitter:DDP - Several measures of variation in fundamental frequency
