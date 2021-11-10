@@ -9,7 +9,7 @@ Refer to Parkinson's Disease Detection.ipynb for the code.
 # Attribute Information:
 
 Matrix column entries (attributes):
-  name - ASCII subject name and recording number
+##name - ASCII subject name and recording number
 #MDVP:Fo(Hz) - Average vocal fundamental frequency
 #MDVP:Fhi(Hz) - Maximum vocal fundamental frequency
 #MDVP:Flo(Hz) - Minimum vocal fundamental frequency
