@@ -32,6 +32,12 @@ Install credentials with requirements.txt
 ```bash
   pip install -r requirements.txt
 ```
+
+## Tech Stack
+
+**Client:** html, CSS
+
+**Server:** Flask
     
 ## Screenshots
 
